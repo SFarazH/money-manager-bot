@@ -1,0 +1,6 @@
+venv/
+discord_bot/
+
+.env
+creds.json
+app.py
